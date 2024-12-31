@@ -1,4 +1,4 @@
-app_name = "appapi"
+app_name = "appapi
 from .views import *
 
 from django.urls import path, include
